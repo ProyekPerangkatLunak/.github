@@ -1,32 +1,36 @@
-<h1 align="center">🍈 Melonku 🍈</h1>
+<h1 align="center">💻 Attendace System</h1>
 <p align="center">
   <img src="https://github.com/Kartanagari-Melon-Hidroponik/.github/blob/main/profile/melon_biji.png" alt="Logo" width="200" height="162.3">
 </p>
-<h3 align="center">Program Kompetisi Kampus Merdeka 2023 Universitas Gunadarma</h3>
-<h4 align="center">Created by : Team 1</h4>
+<h3 align="center">Project Absensi Karyawan P3L 4IA01</h3>
+<h4 align="center">Created by : Team 5</h4>
 <br>
 
 ## Introduction 👋
 
-### Team 1 : IOT system for providing melon nutrition based on PPM values
+### Team 1 : Application system for providing employee attendace from PT. Global Indo Zone (Cirebon,Indonesia)
 
-Hello everyone 😊, we are from Team 1. We consist of 4 people and these are our team members.
+Hello everyone 😊, we are from Team 5. We consist of 5 people and these are our team members.
 
 |               Name                |     Class     |                               Linkedin                                  |
 | :-------------------------------: | :-----------: | :---------------------------------------------------------------------: |
+|    Ferry Setiawan     |     4IA01     | [**Linkedin**](-) |
+|    M.Mulyadi     |     4IA01     | [**Linkedin**](-) |
 |    Mochammad Wildan Alghifari     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/mochammad-wildan-alghifari/) |
+|    Naufal Maulana Al-Ghifari Irawan     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/irawanaufal29/) |
+|    Rizky Bagazkara     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/rizky-bagaskara-61896917a) |
 
 <br>
 
 ## Theme ✈️
 
-Agriculture, Automatic Controller
+Applicatiion, Android-Based
 
 ## Project Description 📕
 
-The IoT system for providing melon nutrition based on PPM values ​​is a system that uses PPM sensors to measure nutrient concentrations in irrigation water. The measurement results data is then sent to the server via the Wi-Fi module. The server will process the data and determine whether fertilizer or water needs to be applied. If necessary, the server will send commands to Arduino to activate the fertilizer or water pump.
+We help our clients who are companies that are developing in the digitalization process, and in this project we created an employee attendance system.
 
 This system has several advantages, including:
-* Can provide proper nutrition according to plant needs.
-* Can save fertilizer and water costs.
-* Can reduce the risk of plant damage due to excessive fertilizer or water application.
+* Can personal login for personal company use.
+* Can use an image for check-in / check-out as attendance.
+* easier control as HR or Stackholder for cotrolling company

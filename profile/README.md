@@ -1,6 +1,6 @@
-<h1 align="center">💻 Attendace System</h1>
+<h1 align="center">💻 Attendance System</h1>
 <p align="center">
-  <img src="https://github.com/Kartanagari-Melon-Hidroponik/.github/blob/main/profile/melon_biji.png" alt="Logo" width="200" height="162.3">
+  <img src="profile/PT.BIZ - RemoveBG.png" alt="Logo" width="200" height="162.3">
 </p>
 <h3 align="center">Project Absensi Karyawan P3L 4IA01</h3>
 <h4 align="center">Created by : Team 5</h4>

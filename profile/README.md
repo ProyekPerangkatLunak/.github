@@ -1,6 +1,6 @@
 <h1 align="center">💻 Attendance System</h1>
 <p align="center">
-  <img src="[profile/PT.BIZ - RemoveBG.png](https://github.com/ProyekPerangkatLunak/.github/blob/main/profile/Logo%20PT%20Global%20Indo%20Zone.jpg") alt="Logo" width="200" height="162.3">
+  <img src="https://github.com/ProyekPerangkatLunak/.github/blob/main/profile/Logo%20PT%20Global%20Indo%20Zone.jpg" alt="Logo" width="200" height="162.3">
 </p>
 <h3 align="center">Project Absensi Karyawan P3L 4IA01</h3>
 <h4 align="center">Created by : Team 5</h4>

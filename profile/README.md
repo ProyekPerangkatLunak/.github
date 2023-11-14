@@ -8,7 +8,7 @@
 
 ## Introduction 👋
 
-### Team 1 : Application system for providing employee attendace from PT. Global Indo Zone (Cirebon,Indonesia)
+### Team 5: Application system for providing employee attendance from PT. Global Indo Zone (Cirebon,Indonesia)
 
 Hello everyone 😊, we are from Team 5. We consist of 5 people and these are our team members.
 
@@ -24,7 +24,7 @@ Hello everyone 😊, we are from Team 5. We consist of 5 people and these are ou
 
 ## Theme ✈️
 
-Applicatiion, Android-Based
+Application, Android-Based
 
 ## Project Description 📕
 

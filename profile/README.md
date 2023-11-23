@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://github.com/ProyekPerangkatLunak/.github/blob/main/profile/Logo%20PT%20Global%20Indo%20Zone.jpg" alt="Logo" width="200" height="162.3">
 </p>
-<h3 align="center">Project Absensi Karyawan P3L 4IA01</h3>
-<h4 align="center">Created by : Team 5</h4>
+<h3 align="center">Project Absensi Karyawan Digital P3L 4IA01</h3>
+<h4 align="center">Created by: Team 5</h4>
 <br>
 
 ## Introduction 👋
@@ -28,9 +28,9 @@ Application, Android-Based
 
 ## Project Description 📕
 
-We help our clients who are companies that are developing in the digitalization process, and in this project we created an employee attendance system.
+We help our clients who are companies that are developing in the digitalization process, and in this project, we created an employee attendance system.
 
 This system has several advantages, including:
 * Can personal login for personal company use.
 * Can use an image for check-in / check-out as attendance.
-* easier control as HR or Stackholder for cotrolling company
+* easier control as HR or Stakeholder for controlling company

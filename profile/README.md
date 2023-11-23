@@ -31,6 +31,6 @@ Application, Android-Based
 We help our clients who are companies that are developing in the digitalization process, and in this project, we created an employee attendance system.
 
 This system has several advantages, including:
-* Can personal login for personal company use.
-* Can use an image for check-in / check-out as attendance.
-* easier control as HR or Stakeholder for controlling company
+* Track employees' attendance using a smartphone for Stakeholders or HR
+* Image-based attendance (employees will take a  selfie for check-in and check-out)
+* Easier control for Stakeholders to recap employee attendance for each day. 

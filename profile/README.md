@@ -11,64 +11,113 @@
 
 <br>
 
-## 🚀 Introduction
+---
 
-Welcome! We are <b>Team 5</b> from PT. Global Indo Zone (Cirebon, Indonesia).  
-Our project aims to deliver a robust Android-based employee attendance system for companies embracing digital transformation.
+## 🇮🇩 Bahasa Indonesia
 
-### 👥 Team Members
+### 🚀 Pendahuluan
 
-| Name                                | Class   | LinkedIn                                                                                   |
-|------------------------------------- |---------|--------------------------------------------------------------------------------------------|
-| Ferry Setiawan                      | 4IA01   | -                                                                                          |
-| M. Mulyadi                          | 4IA01   | -                                                                                          |
-| Mochammad Wildan Alghifari          | 4IA01   | [LinkedIn](https://www.linkedin.com/in/mochammad-wildan-alghifari/)                        |
-| Naufal Maulana Al-Ghifari Irawan    | 4IA01   | [LinkedIn](https://www.linkedin.com/in/irawanaufal29/)                                     |
-| Rizky Bagazkara                     | 4IA01   | [LinkedIn](https://www.linkedin.com/in/rizky-bagaskara-61896917a)                          |
+Selamat datang di GitHub Organisation <b>PT. Global Indo Zone</b>!  
+Kami adalah <b>Team 5</b> dari Cirebon, Indonesia yang mengembangkan sistem absensi karyawan berbasis Android untuk mendukung transformasi digital perusahaan.
 
-<br>
+> 🏅 **Aplikasi ini telah mendapatkan sertifikat HAKI (Hak Atas Kekayaan Intelektual)!**  
+> Lihat posting pengumuman: [Surat HAKI Aplikasi Absensi Karyawan Berbasis Android](https://www.linkedin.com/posts/irawanaufal29_surat-haki-aplikasi-absensi-karyawan-berbasis-activity-7194695402137268224-_X9G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlmsQoBjQVWrLPsVVgVNRbGLqnOI1NMtis)
 
-## 🎯 Project Overview
+### 🎯 Gambaran Proyek
 
-**Theme:** Android-Based Application
+Aplikasi ini membantu perusahaan dalam digitalisasi proses HR, khususnya pencatatan kehadiran karyawan, dengan keamanan dan kemudahan penggunaan sebagai prioritas utama.
 
-Our solution helps companies digitalize their HR processes, focusing on secure, efficient, and user-friendly employee attendance tracking.
+#### ✨ Fitur Unggulan
 
-### ✨ Key Features
+- 📱 **Absensi via Smartphone**: Presensi masuk/keluar cukup lewat aplikasi Android.
+- 🤳 **Verifikasi Foto**: Absensi menggunakan selfie saat check-in/check-out.
+- 📊 **Rekap Harian**: HR/Stakeholder dapat memantau & rekap kehadiran harian dengan mudah.
+- 🔒 **Keamanan Data**: Data absensi tersimpan aman dan andal dengan teknologi modern.
 
-- 📱 **Smartphone-based Attendance:** Employees check in/out using their phones.
-- 🤳 **Image Verification:** Selfie-based attendance for check-in and check-out.
-- 📊 **Daily Recap:** Stakeholders/HR can easily monitor and recap daily attendance.
-- 🔒 **Secure & Reliable:** Built with modern technologies for data privacy and reliability.
-
-<br>
-
-## 🏗️ Tech Stack
+### 🏗️ Teknologi yang Digunakan
 
 - **Backend:** Node.js, Express.js, Prisma, MySQL
 - **Frontend:** Android (Kotlin)
 - **Testing:** Jest
-- **Other Tools:** GitHub Actions, Docker
+- **Tools:** GitHub Actions, Docker
 
-<br>
+### 📁 Daftar Repositori
 
-## 📁 Repositories
+- [API-AbsensiDigital](https://github.com/ProyekPerangkatLunak/API-AbsensiDigital) — API menggunakan ExpressJS & MySQL
+- [backend-rest-api-absensi-giz](https://github.com/ProyekPerangkatLunak/backend-rest-api-absensi-giz) — REST API backend (Express.js, Prisma)
+- [mobile-absensi-giz](https://github.com/ProyekPerangkatLunak/mobile-absensi-giz) — Aplikasi Android (Kotlin)
 
-- [API-AbsensiDigital](https://github.com/ProyekPerangkatLunak/API-AbsensiDigital) — ExpressJS, MySQL API
-- [backend-rest-api-absensi-giz](https://github.com/ProyekPerangkatLunak/backend-rest-api-absensi-giz) — REST API backend
-- [mobile-absensi-giz](https://github.com/ProyekPerangkatLunak/mobile-absensi-giz) — Android mobile app
+### 👥 Anggota Tim
 
-<br>
+| Nama                               | Kelas   | LinkedIn                                                                                   |
+|-------------------------------------|---------|--------------------------------------------------------------------------------------------|
+| Ferry Setiawan                      | 4IA01   | -                                                                                          |
+| M. Mulyadi                          | 4IA01   | -                                                                                          |
+| Mochammad Wildan Alghifari          | 4IA01   | [LinkedIn](https://www.linkedin.com/in/mochammad-wildan-alghifari/)                        |
+| Naufal Maulana Al-Ghifari Irawan    | 4IA01   | [LinkedIn](https://www.linkedin.com/in/irawanaufal29/)                                     |
+| Rizky Bagaskara                     | 4IA01   | [LinkedIn](https://www.linkedin.com/in/rizky-bagaskara-61896917a)                          |
 
-## 🤝 Contribution
+### 🤝 Kontribusi
 
-We welcome contributions! Please see each repository’s README for guidelines, or open an issue if you want to collaborate.
+Kontribusi sangat terbuka! Silakan cek README di setiap repositori atau buka issue untuk kolaborasi.
 
-<br>
+### 📩 Kontak
 
-## 📩 Contact
+Untuk pertanyaan atau kerjasama, hubungi melalui LinkedIn anggota tim di atas.
 
-Feel free to reach out via the team members’ LinkedIn profiles above for any questions or collaboration opportunities.
+---
+
+## 🇬🇧 English
+
+### 🚀 Introduction
+
+Welcome to the <b>PT. Global Indo Zone</b> GitHub Organization!  
+We are <b>Team 5</b> from Cirebon, Indonesia, building an Android-based employee attendance system for digital HR transformation.
+
+> 🏅 **This project has received an Intellectual Property Rights (HAKI) certificate!**  
+> See announcement post: [Android Employee Attendance App HAKI Certificate](https://www.linkedin.com/posts/irawanaufal29_surat-haki-aplikasi-absensi-karyawan-berbasis-activity-7194695402137268224-_X9G?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlmsQoBjQVWrLPsVVgVNRbGLqnOI1NMtis)
+
+### 🎯 Project Overview
+
+Our solution helps companies digitize HR processes, focusing on secure, efficient, and user-friendly attendance tracking.
+
+#### ✨ Key Features
+
+- 📱 **Smartphone-based Attendance:** Employees can check in/out using the Android app.
+- 🤳 **Photo Verification:** Selfie-based attendance verification for check-in and check-out.
+- 📊 **Daily Recap:** HR/Stakeholders can easily monitor and recap daily attendance.
+- 🔒 **Secure & Reliable:** Modern technologies ensure data privacy and reliability.
+
+### 🏗️ Tech Stack
+
+- **Backend:** Node.js, Express.js, Prisma, MySQL
+- **Frontend:** Android (Kotlin)
+- **Testing:** Jest
+- **Tools:** GitHub Actions, Docker
+
+### 📁 Repository List
+
+- [API-AbsensiDigital](https://github.com/ProyekPerangkatLunak/API-AbsensiDigital) — ExpressJS & MySQL API
+- [backend-rest-api-absensi-giz](https://github.com/ProyekPerangkatLunak/backend-rest-api-absensi-giz) — REST API backend (Express.js, Prisma)
+- [mobile-absensi-giz](https://github.com/ProyekPerangkatLunak/mobile-absensi-giz) — Android app (Kotlin)
+
+### 👥 Team Members
+
+| Name                               | Class   | LinkedIn                                                                                   |
+|-------------------------------------|---------|--------------------------------------------------------------------------------------------|
+| Ferry Setiawan                      | 4IA01   | -                                                                                          |
+| M. Mulyadi                          | 4IA01   | -                                                                                          |
+| Mochammad Wildan Alghifari          | 4IA01   | [LinkedIn](https://www.linkedin.com/in/mochammad-wildan-alghifari/)                        |
+| Naufal Maulana Al-Ghifari Irawan    | 4IA01   | [LinkedIn](https://www.linkedin.com/in/irawanaufal29/)                                     |
+| Rizky Bagaskara                     | 4IA01   | [LinkedIn](https://www.linkedin.com/in/rizky-bagaskara-61896917a)                          |
+
+### 🤝 Contribution
+
+We welcome contributions! Please check each repository’s README for guidelines, or open an issue if you want to collaborate.
+
+### 📩 Contact
+
+For any questions or collaboration opportunities, feel free to reach out via the team members’ LinkedIn profiles above.
 
 ---
 

@@ -1,36 +1,77 @@
-<h1 align="center">💻 Attendance System</h1>
+<h1 align="center">💻 Attendance System PT Global Indo Zone</h1>
+
 <p align="center">
-  <img src="https://github.com/ProyekPerangkatLunak/.github/blob/main/profile/Logo%20PT%20Global%20Indo%20Zone.jpg" alt="Logo" width="200" height="162.3">
+  <img src="https://github.com/ProyekPerangkatLunak/.github/blob/main/profile/Logo%20PT%20Global%20Indo%20Zone.jpg" alt="Logo" width="200" height="162">
 </p>
-<h3 align="center">Project Absensi Karyawan Digital P3L 4IA01</h3>
-<h4 align="center">Created by: Team 5</h4>
-<br>
 
-## Introduction 👋
-
-### Team 5: Application system for providing employee attendance from PT. Global Indo Zone (Cirebon,Indonesia)
-
-Hello everyone 😊, we are from Team 5. We consist of 5 people and these are our team members.
-
-|               Name                |     Class     |                               Linkedin                                  |
-| :-------------------------------: | :-----------: | :---------------------------------------------------------------------: |
-|    Ferry Setiawan     |     4IA01     | [**Linkedin**](-) |
-|    M.Mulyadi     |     4IA01     | [**Linkedin**](-) |
-|    Mochammad Wildan Alghifari     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/mochammad-wildan-alghifari/) |
-|    Naufal Maulana Al-Ghifari Irawan     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/irawanaufal29/) |
-|    Rizky Bagazkara     |     4IA01     | [**Linkedin**](https://www.linkedin.com/in/rizky-bagaskara-61896917a) |
+<p align="center">
+  <strong>Digital Employee Attendance Project — P3L 4IA01</strong> <br>
+  <em>Created by: Team 5</em>
+</p>
 
 <br>
 
-## Theme ✈️
+## 🚀 Introduction
 
-Application, Android-Based
+Welcome! We are <b>Team 5</b> from PT. Global Indo Zone (Cirebon, Indonesia).  
+Our project aims to deliver a robust Android-based employee attendance system for companies embracing digital transformation.
 
-## Project Description 📕
+### 👥 Team Members
 
-We help our clients who are companies that are developing in the digitalization process, and in this project, we created an employee attendance system.
+| Name                                | Class   | LinkedIn                                                                                   |
+|------------------------------------- |---------|--------------------------------------------------------------------------------------------|
+| Ferry Setiawan                      | 4IA01   | -                                                                                          |
+| M. Mulyadi                          | 4IA01   | -                                                                                          |
+| Mochammad Wildan Alghifari          | 4IA01   | [LinkedIn](https://www.linkedin.com/in/mochammad-wildan-alghifari/)                        |
+| Naufal Maulana Al-Ghifari Irawan    | 4IA01   | [LinkedIn](https://www.linkedin.com/in/irawanaufal29/)                                     |
+| Rizky Bagazkara                     | 4IA01   | [LinkedIn](https://www.linkedin.com/in/rizky-bagaskara-61896917a)                          |
 
-This system has several advantages, including:
-* Track employees' attendance using a smartphone for Stakeholders or HR
-* Image-based attendance (employees will take a  selfie for check-in and check-out)
-* Easier control for Stakeholders to recap employee attendance for each day. 
+<br>
+
+## 🎯 Project Overview
+
+**Theme:** Android-Based Application
+
+Our solution helps companies digitalize their HR processes, focusing on secure, efficient, and user-friendly employee attendance tracking.
+
+### ✨ Key Features
+
+- 📱 **Smartphone-based Attendance:** Employees check in/out using their phones.
+- 🤳 **Image Verification:** Selfie-based attendance for check-in and check-out.
+- 📊 **Daily Recap:** Stakeholders/HR can easily monitor and recap daily attendance.
+- 🔒 **Secure & Reliable:** Built with modern technologies for data privacy and reliability.
+
+<br>
+
+## 🏗️ Tech Stack
+
+- **Backend:** Node.js, Express.js, Prisma, MySQL
+- **Frontend:** Android (Kotlin)
+- **Testing:** Jest
+- **Other Tools:** GitHub Actions, Docker
+
+<br>
+
+## 📁 Repositories
+
+- [API-AbsensiDigital](https://github.com/ProyekPerangkatLunak/API-AbsensiDigital) — ExpressJS, MySQL API
+- [backend-rest-api-absensi-giz](https://github.com/ProyekPerangkatLunak/backend-rest-api-absensi-giz) — REST API backend
+- [mobile-absensi-giz](https://github.com/ProyekPerangkatLunak/mobile-absensi-giz) — Android mobile app
+
+<br>
+
+## 🤝 Contribution
+
+We welcome contributions! Please see each repository’s README for guidelines, or open an issue if you want to collaborate.
+
+<br>
+
+## 📩 Contact
+
+Feel free to reach out via the team members’ LinkedIn profiles above for any questions or collaboration opportunities.
+
+---
+
+<p align="center">
+  <i>Thank you for visiting our GitHub Organization! 🚀</i>
+</p>
